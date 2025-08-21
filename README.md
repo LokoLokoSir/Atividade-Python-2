@@ -12,3 +12,6 @@ excluindo objetos da lista
 retornando uma lista dos objetos criados.
 
 Crie módulos adicionais para facilitar o reúso.
+
+
+José Guilherme Colatino Pessoa

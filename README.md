@@ -14,6 +14,9 @@ retornando uma lista dos objetos criados.
 Crie módulos adicionais para facilitar o reúso.
 
 Alunos:
+
 José Guilherme Colatino Pessoa
+
 Renato Julio Fernandes Santana de Souza
+
 Ygor Thyago Pereira Silva
